@@ -1,2 +1,2 @@
-# graph_qa
-code for Graph-QA Transformer
+# LaFT
+code for LaFT-Transformer
